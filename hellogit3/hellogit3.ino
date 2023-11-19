@@ -4,6 +4,6 @@ void setup() {
 }
 
 void loop() {
-  Serial.println("HelloGit 3");
+  Serial.println("Hello Git 3 v.2");
 
 }

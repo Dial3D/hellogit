@@ -1,0 +1,73 @@
+[33mcommit df9c9caef85a38b7aa946a852fc3bd95d12edddf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mlogin[m[33m)[m
+Author: DiegoH <dial3d@gmail.com>
+Date:   Mon Nov 20 19:27:46 2023 -0500
+
+    Login v2
+
+[33mcommit c0e3140b71382c2f4c342ca0ab6bf0bd5c61909c[m
+Merge: f693c5b 28d00e0
+Author: DiegoH <dial3d@gmail.com>
+Date:   Mon Nov 20 19:12:56 2023 -0500
+
+    Actualizamos el merge
+
+[33mcommit 28d00e018a48186b978cfc7c41ae84e28f8df46c[m
+Author: DiegoH <dial3d@gmail.com>
+Date:   Mon Nov 20 19:00:34 2023 -0500
+
+    Hello git 3 v3
+
+[33mcommit f693c5b5da2d83820f2ba6901b1978160c7ce8a5[m
+Author: DiegoH <dial3d@gmail.com>
+Date:   Mon Nov 20 18:59:54 2023 -0500
+
+    Hello git 3 login
+
+[33mcommit 238b10b5262a4c58c9d7cd416a5cd111a0602748[m
+Merge: 06782e9 2d12979
+Author: DiegoH <dial3d@gmail.com>
+Date:   Sat Nov 18 23:52:26 2023 -0500
+
+    Combinación
+
+[33mcommit 2d129792447b3c2690a00ba0ba94aff6e748c318[m
+Author: DiegoH <dial3d@gmail.com>
+Date:   Sat Nov 18 23:38:06 2023 -0500
+
+    hellogit3 v.2
+
+[33mcommit 06782e94e2dd52720eefea7e451417ee70fef5a6[m
+Author: DiegoH <dial3d@gmail.com>
+Date:   Sat Nov 18 23:34:09 2023 -0500
+
+    login
+
+[33mcommit c5d0ce6c1615ec67b08a17d5ddab8fd93c790903[m
+Author: DiegoH <dial3d@gmail.com>
+Date:   Sat Nov 18 23:06:31 2023 -0500
+
+    Este es mi quinto commit
+
+[33mcommit 2d98087a8cc3098b57269cc96b0b3a6704c8d802[m[33m ([m[1;33mtag: dia_1[m[33m)[m
+Author: DiegoH <dial3d@gmail.com>
+Date:   Sat Nov 18 13:30:15 2023 -0500
+
+    Se añade el fichero .gitignore
+
+[33mcommit a080155227b1da48d89804efe1383a5b32cc477a[m
+Author: DiegoH <dial3d@gmail.com>
+Date:   Sat Nov 18 12:59:46 2023 -0500
+
+    Se inicializa el puerto serial
+
+[33mcommit f8d419d59449af778c7768f03d3ba4801d21a29d[m
+Author: DiegoH <dial3d@gmail.com>
+Date:   Sat Nov 18 12:46:17 2023 -0500
+
+    Este es mi segundo commit
+
+[33mcommit 0d3062b34282dd9ce88ead9fb6578d957358572b[m
+Author: DiegoH <dial3d@gmail.com>
+Date:   Sat Nov 18 12:37:59 2023 -0500
+
+    Este es mi primer commit
